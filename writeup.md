@@ -22,10 +22,10 @@ The goals / steps of this project are the following:
 [cam_undistorted]: ./output_images/example/undistort_output.jpg "Undistorted"
 [test_undistorted]: ./output_images/example/undistort.jpg "Undistorted"
 [combined_binary]: ./output_images/example/combined_binary.jpg "Combined Binary"
-[binary_warped]: ./output_images/examples/binary_warped.jpg "Binary Warped"
-[step1]: ./output_images/examples/step1.jpg "Binary Warped"
-[step2]: ./output_images/examples/step2.jpg "Poly Fit"
-[step3]: ./output_images/examples/step3.jpg "Result"
+[binary_warped]: ./output_images/example/binary_warped.jpg "Binary Warped"
+[step1]: ./output_images/example/step1.jpg "Binary Warped"
+[step2]: ./output_images/example/step2.jpg "Poly Fit"
+[step3]: ./output_images/example/step3.jpg "Result"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
@@ -146,7 +146,7 @@ I implemented this step in cell 7 line 82 in the function `map_lane()`.  Here is
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result](.test_videos_output/project_video.mp4)
+Here's a [link to my video result](test_videos_output/project_video.mp4)
 
 ---
 
